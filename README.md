@@ -28,10 +28,10 @@ An AI-powered chatbot web application built using **HTML, CSS, JavaScript, Flask
 
 ⚙️ Installation
 
- 1. Clone the repository
+ # 1. Clone the repository
 
 
-git clone https://github.com/your-username/AI-Agent.git
+git clone [https://github.com/your-username/AI-Agent.git](https://github.com/vasu04-git/ChatBot)
 
 
 # 2. Navigate to the project folder
@@ -90,6 +90,7 @@ http://127.0.0.1:5000
 ## 📸 Screenshot
 
 
+<img width="1350" height="630" alt="Response" src="https://github.com/user-attachments/assets/bb70b6c1-a88d-4df3-9fe4-91dcc9893f74" />
 
 
 
