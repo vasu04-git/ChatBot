@@ -16,12 +16,11 @@ An AI-powered chatbot web application built using **HTML, CSS, JavaScript, Flask
 
 ## 🛠️ Technologies Used
 
+- Python
+- Flask
 - HTML5
 - CSS3
 - JavaScript
-- Python
-- Flask
-- OpenRouter API
 
 ---
 
