@@ -1,4 +1,4 @@
-# 🤖 AI Agent
+## 🤖 AI Agent
 
 An AI-powered chatbot web application built using **HTML, CSS, JavaScript, Flask, and OpenRouter API**. Users can enter questions through a simple web interface, and the chatbot generates intelligent responses using a Large Language Model (LLM).
 
@@ -27,48 +27,48 @@ An AI-powered chatbot web application built using **HTML, CSS, JavaScript, Flask
 
 ⚙️ Installation
 
- # 1. Clone the repository
+ ## 1. Clone the repository
 
 
 git clone [https://github.com/your-username/AI-Agent.git](https://github.com/vasu04-git/ChatBot)
 
 
-# 2. Navigate to the project folder
+## 2. Navigate to the project folder
 
 
 cd AI-Agent
 
 
-# 3. Create a virtual environment
+## 3. Create a virtual environment
 
 
 python -m venv .venv
 
 
-# 4. Activate the virtual environment
+## 4. Activate the virtual environment
 
 
 .venv\Scripts\activate
 
 
- # 5. Install dependencies
+ ## 5. Install dependencies
 
 
 pip install -r requirements.txt
 
 
-# 6. Create a `.env` file
+## 6. Create a `.env` file
 
 
 OPENROUTER_API_KEY=your_openrouter_api_key
 
 
-# 7. Run the application
+## 7. Run the application
 
 
 python app.py
 
-# 8. Open in your browser
+## 8. Open in your browser
 
 
 http://127.0.0.1:5000
